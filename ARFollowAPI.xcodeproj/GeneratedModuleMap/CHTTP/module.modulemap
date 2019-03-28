@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/Users/jabarra/Git Files/vapor-arfollow-api/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include"
+    export *
+}
